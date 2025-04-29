@@ -1,4 +1,5 @@
-# RGB Display for Conveyor Belt 🎛️
+# RGB Display for Conveyor Belt
+
 
 ## Overview
 A customizable scrolling RGB display system designed for industrial conveyor belts. Controlled using an ESP32 microcontroller, the display allows text messages to be updated dynamically via a web configuration page or Excel sheets over Wi-Fi or Ethernet.
